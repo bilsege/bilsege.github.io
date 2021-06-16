@@ -1,4 +1,4 @@
-# bilsege learning platform and service
+# [bilsege learning platform and service](https://github.com/bilsege)
 
 # Service License
 
